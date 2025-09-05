@@ -1,0 +1,28 @@
+
+# Python virtual environments
+myenv/
+venv/
+.env/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+.coverage
+.mypy_cache/
+.pytest_cache/
+.tox/
+.pylint.d/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
